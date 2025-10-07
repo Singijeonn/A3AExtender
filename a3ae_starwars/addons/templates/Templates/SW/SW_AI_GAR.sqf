@@ -161,7 +161,7 @@ _sfLoadoutData set ["grenadeLaunchers", []];
 _sfLoadoutData set ["SMGs", []];
 _sfLoadoutData set ["machineGuns", []];
 _sfLoadoutData set ["marksmanRifles", []];
-_sfLoadoutData set ["sniperRifles", []];
+_sfLoadoutData set ["sniperRifles", []];''
 _sfLoadoutData set ["sidearms", []];
 /////////////////////////////////
 //    Military Loadout Data    //
